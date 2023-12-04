@@ -23,4 +23,6 @@ Cargo.lock
 
 scratch/
 
+# ignore databases
 my_database.db
+txlite*
